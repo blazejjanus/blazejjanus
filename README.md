@@ -5,7 +5,9 @@
 
 🌱 I’m currently learning Docker and Python.
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/blazejjanus)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/blazejjanus/)
+
+
 
 ## GitHub stats:
 <img src="https://github-readme-stats.vercel.app/api?username=blazejjanus&show_icons=true&theme=dark&count_private=true"/>
