@@ -1,6 +1,8 @@
 ### Hi there 👋
 👂 My name is Błażej Janus
+
 🔭 I’m currently studying Computer Science on Faculty of Electrical Engineering of Silesian University of Technology
+
 🌱 I’m currently learning Docker and Python.
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/blazejjanus)
