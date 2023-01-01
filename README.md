@@ -1,7 +1,11 @@
 ### Hi there 👋
 👂 My name is Błażej Janus
 
-🔭 I’m currently studying Computer Science on Faculty of Electrical Engineering of Silesian University of Technology
+🎓 I’m currently studying Computer Science on Faculty of Electrical Engineering of Silesian University of Technology.
+
+🔭 I'm interested in: security, Linux and .NET.
+
+✏️ I've expirience in: C#, ASP .NET Core, WinForms.
 
 🌱 I’m currently learning Docker and Python.
 
