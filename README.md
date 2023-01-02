@@ -7,7 +7,7 @@
 
 ✏️ I've expirience in: C#, ASP .NET Core, WinForms.
 
-🌱 I’m currently learning Docker and Python.
+🌱 I’m currently learning Docker, Python, WPF, MAUI.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/blazejjanus/)
 
