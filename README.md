@@ -6,9 +6,9 @@
 
 🔭 I'm interested in: security, Linux and .NET.
 
-✏️ I've experience in: C#, ASP .NET Core, EntityFramework Core, WinForms.
+✏️ I've experience in: C#, ASP .NET Core, EntityFramework Core, WinForms, WPF (Prism).
 
-🌱 I’m currently learning: Docker, Jenkins, DevOps, Python, WPF, MAUI.
+🌱 I’m currently learning: Docker, Jenkins, DevOps, Python, WPF (Prism), MAUI, Blazor.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/blazejjanus/)
 
