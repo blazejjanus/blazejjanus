@@ -14,8 +14,8 @@
 
 
 ## GitHub stats:
-<img src="https://github-stats-extended.vercel.app/api?username=blazejjanus&show_icons=true&theme=dark&count_private=true"/><br>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=blazejjanus&layout=compact&theme=dark&count_private=true"/><br>
+<img src="https://github-stats-extended.vercel.app/api?username=blazejjanus&show_icons=true&include_all_commits=true&theme=dark"/><br>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=blazejjanus&langs_count=5&theme=dark"/><br>
 <img src="https://streak-stats.demolab.com/?user=blazejjanus&theme=dark"/><br>
 
 
