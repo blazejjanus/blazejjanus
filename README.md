@@ -14,9 +14,9 @@
 
 
 ## GitHub stats:
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=blazejjanus&show_icons=true&theme=dark&count_private=true"/><br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=blazejjanus&layout=compact&theme=dark&count_private=true"/><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=blazejjanus&theme=dark&count_private=true"/><br>
+<img src="https://github-stats-extended.vercel.app/api?username=blazejjanus&show_icons=true&theme=dark&count_private=true"/><br>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=blazejjanus&layout=compact&theme=dark&count_private=true"/><br>
+<img src="https://github-stats-extended.vercel.app/api/streak?username=blazejjanus&theme=dark&count_private=true"/><br>
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=blazejjanus.blazejjanus)
